@@ -1,0 +1,57 @@
+{
+    "name": "ActiveTick",
+    "description": "<p>ActiveTick LLC was founded by a group of traders and software developers whose personal needs for a robust, multitasking, inexpensive and stable trading platform turned into a groundbreaking product. As more and more traders realized the true power of ActiveTick products and started using them, the products evolved into a company.&nbsp; Today, ActiveTick LLC is a technology-driven market data firm with a superb products, offering its users the flexibility and the power they have been looking for. Located in the heart of financial district of Wilmington Delaware, ActiveTick LLC maintains its server farms capable of processing over a million market messages a second in three state-of-the-art data centers in New York, Chicago, and St. Louis.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/AT_Logo2.jpg",
+    "tags": [
+        "api not found",
+        "have api",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/activetick\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ActiveTick",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/AT_Logo2.jpg",
+            "humanURL": "http:\/\/www.activetick.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/activetick-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/activetick-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/activetick"
+        },
+        {
+            "type": "Email",
+            "url": "inquiries@activetick.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@activetick.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers@activetick.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.activetick.com"
+        }
+    ]
+}
